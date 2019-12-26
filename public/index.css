@@ -1,0 +1,7 @@
+@font-face {
+    font-family: singhFont;
+    src: url("../src/assets/singhFont.ttf") format("truetype");
+}
+html{
+    scroll-behavior: smooth;
+}
