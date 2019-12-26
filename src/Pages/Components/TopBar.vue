@@ -1,21 +1,20 @@
 <template>
   <div class="row topbar-container">
     <div id="topbar" class="topbar-container col-12 p-0 in-active">
-      <div class="col-lg-1 col-0"></div>
-      <div class="col-5 d-flex justify-content-start align-items-center">
+      <div class="col-6 d-flex justify-content-start align-items-center">
         <div class="name-container d-flex justify-content-start align-items-center">
           <span class="font bold">Choengchai</span>
         </div>
       </div>
-      <div class="col-5 d-none d-md-flex justify-content-end">
+      <div class="col-6 d-none d-md-flex justify-content-end">
         <div class="option-container d-flex justify-content-around align-items-center">
           <div @click="toPage('middle')" class="clickable h-100 d-flex align-items-center">
             <span class="font">Home</span>
           </div>
-          <div @click="toPage('about')"  class="clickable h-100 d-flex align-items-center">
+          <div @click="toPage('about')" class="clickable h-100 d-flex align-items-center">
             <span class="font">About</span>
           </div>
-          <div class="clickable h-100 d-flex align-items-center">
+          <div @click="toPage('project')"  class="clickable h-100 d-flex align-items-center">
             <span class="font">Project</span>
           </div>
           <div class="clickable h-100 d-flex align-items-center">
@@ -23,12 +22,11 @@
           </div>
         </div>
       </div>
-      <div class="col-5 d-flex d-md-none justify-content-end"> 
+      <div class="col-6 d-flex d-md-none justify-content-end"> 
         <div class="h-100 d-flex justify-content-end align-items-center">
           <img id="menu" class="menu menu-inactive" src="../../assets/menu.svg">
         </div>
       </div>
-      <div class="col-lg-1 col-0"></div>
     </div>
   </div>
 </template>

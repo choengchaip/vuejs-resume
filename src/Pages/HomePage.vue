@@ -4,6 +4,7 @@
     <div class="ontop col-12 p-0">
       <MiddleContent/>
       <AboutContent />
+      <ProjectContent />
     </div>
   </div>
 </template>
@@ -11,11 +12,14 @@
 <script>
 import MiddleContent from "./Components/MiddleContent";
 import AboutContent from "./Components/AboutContent";
+import ProjectContent from './Components/ProjectContent';
+
 export default {
   name: "HomePage",
   components: {
     MiddleContent,
-    AboutContent
+    AboutContent,
+    ProjectContent
   }
 };
 </script>

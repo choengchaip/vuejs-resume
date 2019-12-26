@@ -1,7 +1,7 @@
 <template>
   <div class="row justify-content-center mx-0">
     <div class="col-lg-1 col-0"></div>
-    <div id="about" class="col-12 col-lg-10 about-content bg-white p-5">
+    <div id="about" class="col-12 col-lg-10 bg-white p-5">
       <div class="my-5"></div>
       <h3 class="mb-4">Hello World!</h3>
       <span>
@@ -156,9 +156,6 @@ export default {};
 }
 .bold {
   font-weight: bold;
-}
-.about-content {
-  height: 100vh;
 }
 h3 {
   font-weight: bold;
