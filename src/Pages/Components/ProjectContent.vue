@@ -1,7 +1,6 @@
 <template>
-  <div id="project" class="row mx-0 justify-content-center">
-    <div class="col-lg-1 col-0"></div>
-    <div class="col-12 col-lg-10 p-5">
+  <div id="project" class="row mx-0 justify-content-center bg-light">
+    <div class="col-12 col-lg-10 col-xl-8 p-5">
       <div class="my-5"></div>
       <h3>Project</h3>
       <div class="my-5"></div>
@@ -81,7 +80,6 @@
          <span class="bold">Check out all my projects :</span><span class="ml-2"><a href="https://github.com/choengchaip" target="_blank">https://github.com/choengchaip</a></span>
       </div>
     </div>
-    <div class="col-lg-1 col-0"></div>
   </div>
 </template>
 

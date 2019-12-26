@@ -17,7 +17,7 @@
           <div @click="toPage('project')"  class="clickable h-100 d-flex align-items-center">
             <span class="font">Project</span>
           </div>
-          <div class="clickable h-100 d-flex align-items-center">
+          <div @click="toPage('contact')" class="clickable h-100 d-flex align-items-center">
             <span class="font">Contact</span>
           </div>
         </div>

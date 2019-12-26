@@ -1,7 +1,6 @@
 <template>
   <div class="row justify-content-center mx-0">
-    <div class="col-lg-1 col-0"></div>
-    <div id="about" class="col-12 col-lg-10 bg-white p-5">
+    <div id="about" class="col-12 col-lg-10 col-xl-8 bg-white p-5">
       <div class="my-5"></div>
       <h3 class="mb-4">Hello World!</h3>
       <span>
@@ -129,7 +128,6 @@
         </div>
       </div>
     </div>
-    <div class="col-lg-1 col-0"></div>
   </div>
 </template>
 

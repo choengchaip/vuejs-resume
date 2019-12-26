@@ -5,6 +5,8 @@
       <MiddleContent/>
       <AboutContent />
       <ProjectContent />
+      <ContactContent />
+      <FooterContent />
     </div>
   </div>
 </template>
@@ -13,13 +15,17 @@
 import MiddleContent from "./Components/MiddleContent";
 import AboutContent from "./Components/AboutContent";
 import ProjectContent from './Components/ProjectContent';
+import ContactContent from './Components/ContactContent';
+import FooterContent from './Components/FooterContent';
 
 export default {
   name: "HomePage",
   components: {
     MiddleContent,
     AboutContent,
-    ProjectContent
+    ProjectContent,
+    ContactContent,
+    FooterContent
   }
 };
 </script>

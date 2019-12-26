@@ -17,5 +17,13 @@ export default new Router({
             path: "/middle",
             component: HomePage
         },
+        {
+            path: "/project",
+            component: HomePage
+        },
+        {
+            path: "/contact",
+            component: HomePage
+        },
     ]
 });
