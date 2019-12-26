@@ -1,5 +1,5 @@
 <template>
-  <div class="row justify-content-center bg-light">
+  <div class="row mx-0 justify-content-center bg-light">
       <div id="footer" class="col-12 col-lg-10 col-xl-8 p-5">
           <div class="row mb-3">
               <div class="col-12 d-flex justify-content-center">
