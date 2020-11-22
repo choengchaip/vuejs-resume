@@ -1,12 +1,12 @@
 <template>
-  <div  id="home" class="row singh-outter-bg">
+  <div id="home" class="row singh-outter-bg">
     <div class="col-12 singh-inner-bg p-0"></div>
     <div class="ontop col-12 p-0">
       <MiddleContent/>
-      <AboutContent />
-      <ProjectContent />
-      <ContactContent />
-      <FooterContent />
+      <AboutContent/>
+      <ProjectContent/>
+      <ContactContent/>
+      <FooterContent/>
     </div>
   </div>
 </template>
@@ -39,6 +39,7 @@ export default {
   background-repeat: repeat;
   background-color: black;
 }
+
 .singh-inner-bg {
   background-color: black;
   opacity: 0.3;
@@ -49,6 +50,7 @@ export default {
   height: 100vh;
   width: 100vw;
 }
+
 .ontop {
   z-index: 993;
 }

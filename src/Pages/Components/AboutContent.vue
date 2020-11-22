@@ -31,7 +31,7 @@
         <div class="col-12 col-md-6 p-0 d-flex item-con align-items-center">
           <img class="h-50" src="../../assets/phone.svg" />
           <span class="pl-2 item-font bold">Phone :</span>
-          <span class="pl-2 item-font">(+66) 94 148 8594</span>
+          <span class="pl-2 item-font">(+66) 94 251 3436</span>
         </div>
         <div class="my-5"></div>
         <div class="social-con d-flex col-12 p-0">
@@ -51,7 +51,7 @@
         <div class="col-12 p-0 mb-4">
           <div class="col-12 p-0 d-flex justify-content-between">
             <div>
-              <span class="font item-font">HTML5, CSS, JS</span>
+              <span class="font item-font">NuxtJS</span>
             </div>
             <div>
               <span class="font item-font">90%</span>
@@ -77,40 +77,27 @@
         <div class="col-12 p-0 mb-4">
           <div class="col-12 p-0 d-flex justify-content-between">
             <div>
-              <span class="font item-font">VueJS</span>
+              <span class="font item-font">TypeScript</span>
             </div>
             <div>
-              <span class="font item-font">90%</span>
+              <span class="font item-font">70%</span>
             </div>
           </div>
           <div class="mt-1 progress-con w-100 position-relative">
-            <div class="progress-item" style="width: 90%;"></div>
+            <div class="progress-item" style="width: 70%;"></div>
           </div>
         </div>
         <div class="col-12 p-0 mb-4">
           <div class="col-12 p-0 d-flex justify-content-between">
             <div>
-              <span class="font item-font">ReactJS</span>
+              <span class="font item-font">Golang</span>
             </div>
             <div>
-              <span class="font item-font">40%</span>
+              <span class="font item-font">80%</span>
             </div>
           </div>
           <div class="mt-1 progress-con w-100 position-relative">
-            <div class="progress-item" style="width: 40%;"></div>
-          </div>
-        </div>
-        <div class="col-12 p-0 mb-4">
-          <div class="col-12 p-0 d-flex justify-content-between">
-            <div>
-              <span class="font item-font">Angular</span>
-            </div>
-            <div>
-              <span class="font item-font">45%</span>
-            </div>
-          </div>
-          <div class="mt-1 progress-con w-100 position-relative">
-            <div class="progress-item" style="width: 45%;"></div>
+            <div class="progress-item" style="width: 80%;"></div>
           </div>
         </div>
         <div class="col-12 p-0 mb-4">
@@ -119,11 +106,50 @@
               <span class="font item-font">NodeJS</span>
             </div>
             <div>
+              <span class="font item-font">80%</span>
+            </div>
+          </div>
+          <div class="mt-1 progress-con w-100 position-relative">
+            <div class="progress-item" style="width: 80%;"></div>
+          </div>
+        </div>
+        <div class="col-12 p-0 mb-4">
+          <div class="col-12 p-0 d-flex justify-content-between">
+            <div>
+              <span class="font item-font">HTML5 / SCSS</span>
+            </div>
+            <div>
               <span class="font item-font">90%</span>
             </div>
           </div>
           <div class="mt-1 progress-con w-100 position-relative">
             <div class="progress-item" style="width: 90%;"></div>
+          </div>
+        </div>
+        <div class="col-12 p-0 mb-4">
+          <div class="col-12 p-0 d-flex justify-content-between">
+            <div>
+              <span class="font item-font">Docker</span>
+            </div>
+            <div>
+              <span class="font item-font">50%</span>
+            </div>
+          </div>
+          <div class="mt-1 progress-con w-100 position-relative">
+            <div class="progress-item" style="width: 50%;"></div>
+          </div>
+        </div>
+        <div class="col-12 p-0 mb-4">
+          <div class="col-12 p-0 d-flex justify-content-between">
+            <div>
+              <span class="font item-font">Kubernetes</span>
+            </div>
+            <div>
+              <span class="font item-font">50%</span>
+            </div>
+          </div>
+          <div class="mt-1 progress-con w-100 position-relative">
+            <div class="progress-item" style="width: 80%;"></div>
           </div>
         </div>
       </div>
