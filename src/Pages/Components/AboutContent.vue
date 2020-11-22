@@ -80,11 +80,11 @@
               <span class="font item-font">TypeScript</span>
             </div>
             <div>
-              <span class="font item-font">70%</span>
+              <span class="font item-font">80%</span>
             </div>
           </div>
           <div class="mt-1 progress-con w-100 position-relative">
-            <div class="progress-item" style="width: 70%;"></div>
+            <div class="progress-item" style="width: 80%;"></div>
           </div>
         </div>
         <div class="col-12 p-0 mb-4">
